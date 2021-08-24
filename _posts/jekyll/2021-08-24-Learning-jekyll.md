@@ -1,5 +1,3 @@
-# Jekyll Blog
-
 ## Setup
 
 After install xcode and homebrew tools, we install ruby and gems.
@@ -57,3 +55,11 @@ Back in Terminal : bundle install // installs all gems
 In the config.yml file update minima to new theme name.
 `$ bundle exec jekyll serve`
 change layout according to new theme.default maybe.
+
+# To deploy your blog to github
+
+Create a branch called gh-pages
+Modify baseurl and url in \_config.yml file.
+Like for this page
+baseurl: '/jekyllBlog'
+url: 'https://namrajp.github.io'
