@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Find Groups"
+title: "Callbacks"
 categories: networking jekyll update
-permalink: "/groups/find/"
+permalink: "/callbacks/"
 ---
 
 # Callbacks

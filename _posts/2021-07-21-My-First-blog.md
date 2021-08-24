@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".dev Friends"
+title: "permalinks"
 categories: networking jekyll
 permalink: /:categories/:year/:month/:day
 ---

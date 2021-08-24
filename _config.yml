@@ -22,8 +22,8 @@ title: Learning Javascript development
 email: active99raj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog. This section is about Javascript application Development, I am writing posts on Basic CSS, Javascript, asynchronous programming, Rest API, Testing using Jest, Authentication, Databases PostGres, MongoDB, Redis, Electron, Deployment, Linux Server and more.
-baseurl: "jekyllBlog" # the subpath of your site, e.g. /blog
-url: "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twitter@wouraj
 github_username: github@Namrajp
 
