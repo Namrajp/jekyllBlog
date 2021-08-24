@@ -1,6 +1,7 @@
 # Tailwind
 
 Utility first css framework, lets write css classes in html. file size is small, so fast.
+sat
 
 ## Installation
 
@@ -11,12 +12,13 @@ $ npm install tailwindcss
 
 - Also, create dist folder for output. In dist create a index.html and style.css.
 
-```
+````
 @tailwind base
 @tailwind components
 @utilities
-```
+```git
 
 - In package json file, in script, add `build:css`: `tailwind build src/style.css -o dist/style.css`
 
 Then we run `npm run build:css` command on terminal. We check `dist/style.css` for styles added by tailwind.
+````
